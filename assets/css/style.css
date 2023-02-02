@@ -51,5 +51,5 @@
 .button:active {
     background-color: #6e0a6e;
     color: #323330;
-    transition: 0.1s ease-in-out;
+    transition: 0.05s ease-in-out;
 }
