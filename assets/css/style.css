@@ -45,7 +45,7 @@
 .button:hover {
     background-color: #ffffff;
     color: #323330;
-    transition: 0.5s ease-in-out;
+    transition: 0.05s ease-in-out;
 }
 
 .button:active {
