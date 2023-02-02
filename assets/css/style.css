@@ -37,19 +37,19 @@
     cursor: pointer;
 }
 
-#equal {
+#equal {                /* equals button is a different color so it stands out */
     background-color: rgb(140, 0, 255);
     color: white;
 }
 
-.button:hover {
+.button:hover {         /* animation on hovering over buttons */
     background-color: #ffffff;
-    color: #323330;
+    color: #282925;
     transition: 0.05s ease-in-out;
 }
 
-.button:active {
+.button:active {        /* animation on clicking buttons */
     background-color: #6e0a6e;
-    color: #323330;
+    color: #282925;
     transition: 0.05s ease-in-out;
 }
